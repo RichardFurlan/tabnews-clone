@@ -1,6 +1,6 @@
 function Home(){
     return (
-    <h1>Valeu 👍</h1>
+    <h1>Valeu 👍👍</h1>
     )
 }
 
